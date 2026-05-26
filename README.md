@@ -6,17 +6,16 @@
 ---
 
 ## 🎓 Academic Submission Details
-* **Course Title:** CSC 322 / CSC 222 (Systems Analysis & Machine Learning Assignment)
-* **Project Title:** EduSafe: Student Dropout Prediction & Intervention System
-* **Submitted By:** [Your Name] 
-* **Matriculation Number:** [Your Matric Number]
+* **Course Title: CSC 322 / CSC 222 (Systems Analysis & Machine Learning Assignment)
+* **Project Title: EduSafe: Student Dropout Prediction & Intervention System
+* **Submitted By: Group2 
 * **Department:** Computer Science
-* **Submitted To:** [Lecturer's Name]
-* **Date:** May 2026
+* **Submitted To: Dr. uloko Felix
+* **Date:May 2026
 
 ---
 
-## 📌 Project Overview
+   Project Overview
 EduSafe is an end-to-end Machine Learning-powered system designed to predict student dropout rates and provide explainable risk indicators. By identifying at-risk students early in their academic journey, institutions can deploy timely interventions (counseling, financial aid, or academic tutoring) to improve student retention and graduation rates.
 
 This repository contains the data analysis, machine learning models, and the code for the interactive Streamlit web application.
